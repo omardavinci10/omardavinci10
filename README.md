@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @omardavinci10
-- 👀 I’m interested in Programming some cool Apps and Games.
+- 👋 Hi, I’m Omar Mohamed
+- 👀 I’m interested in Programming some cool Apps and Games either for Desktop or Mobile.
 - 🌱 I’m currently learning Android Development & Hardware Design.
 - 💞️ I’m looking to collaborate on a lot of teams.
 - 📫 How to reach me: omar_d11@yahoo.com
